@@ -1,4 +1,4 @@
-# last_iterate_prox_experiments
+# Last iterate prox experiments
 This repo contains results for experiments conducted using the BlockProx algorithm for distributed optimization with separable regularizers. Additional details regarding experimental setup can be found in
 https://arxiv.org/pdf/2509.14488v1 section 6.1 and 6.2. We provide a brief summary of each figure.
 
